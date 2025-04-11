@@ -12,7 +12,16 @@ body {
 header {
   font-family: 'Playfair Display', serif;
   font-size: 30px;
+}
+
+.sakums {
   position: absolute;
   left: 20px;
+  top: 20px;
+}
+
+.par-mums {
+  position: absolute;
+  left: 156px;
   top: 20px;
 }
