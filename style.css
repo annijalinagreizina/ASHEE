@@ -31,3 +31,11 @@ header {
   left: 322px;
   top: 20px;
 }
+
+.mission {
+  position: absolute;
+  left: 35px;
+  top: 78px;
+  color: #EB89B5;
+  font-size: 70px;
+}
