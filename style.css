@@ -39,3 +39,11 @@ header {
   color: #EB89B5;
   font-size: 70px;
 }
+
+.mission-second {
+  position: absolute;
+  left: 35px;
+  top: 148px;
+  color: #EB89B5;
+  font-size: 70px;
+}
