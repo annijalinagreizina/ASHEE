@@ -47,3 +47,12 @@ header {
   color: #EB89B5;
   font-size: 70px;
 }
+
+.rectangle {
+  position: absolute;
+  left: 72px;
+  top: 465px;
+  width: 617px;
+  height: 298px;
+  background-color: #D9D9D9;
+}
