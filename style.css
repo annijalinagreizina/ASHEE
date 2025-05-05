@@ -32,6 +32,36 @@ header {
   top: 20px;
 }
 
+.galerija {
+  position: absolute;
+  left: 951px;
+  top: 20px;
+}
+
+.kontakti {
+  position: absolute;
+  left: 1087px;
+  top: 20px;
+}
+
+.rezerve {
+  position: absolute;
+  left: 1247px;
+  top: 23px;
+}
+
+.vietu {
+  position: absolute;
+  left: 1247px;
+  top: 53px;
+}
+
+.autorizejies {
+  position: absolute;
+  left: 1230px;
+  top: 128px;
+}
+
 .mission {
   position: absolute;
   left: 35px;
