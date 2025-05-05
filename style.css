@@ -44,22 +44,47 @@ header {
   top: 20px;
 }
 
+.box-shell {
+  position: absolute;
+  width: 183px;
+  height: 80px;
+  background-color: #D9D9D9;
+}
+
+.box-shell.upper {
+  left: 1225px;
+  top: 28px;
+}
+
+.box-shell.lower {
+  left: 1225px;
+  top: 117px;
+}
+
+.box-content {
+  position: relative;
+  width: 173px;
+  height: 70px;
+  background-color: #CCCCCC;
+  margin: 5px;
+}
+
 .rezerve {
   position: absolute;
-  left: 1247px;
-  top: 23px;
+  left: 22px;
+  top: 5px;
 }
 
 .vietu {
   position: absolute;
-  left: 1247px;
-  top: 53px;
+  left: 22px;
+  top: 35px;
 }
 
 .autorizejies {
   position: absolute;
-  left: 1230px;
-  top: 128px;
+  left: 5px;
+  top: 20px;
 }
 
 .mission {
