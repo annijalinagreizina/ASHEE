@@ -65,3 +65,11 @@ header {
   height: 258px;
   background-color: #CCCCCC;
 }
+
+.logo {
+  position: absolute;
+  left: 44px;
+  top: 88px;
+  width: 304px;
+  height: 230px;
+}
