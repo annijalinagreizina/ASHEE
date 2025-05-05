@@ -36,6 +36,8 @@ header {
   position: absolute;
   left: 951px;
   top: 20px;
+  text-decoration: none;
+  color: inherit;
 }
 
 .kontakti {
