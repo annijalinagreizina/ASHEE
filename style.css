@@ -18,6 +18,8 @@ header {
   position: absolute;
   left: 20px;
   top: 20px;
+   text-decoration: none;
+  color: inherit;
 }
 
 .par-mums {
@@ -38,6 +40,14 @@ header {
   top: 20px;
   text-decoration: none;
   color: inherit;
+}
+
+.galerija1 {
+position: absolute;
+left: 404px;
+  top: 100px;
+font-family: 'Playfair Display', serif;
+  font-size: 60px;
 }
 
 .kontakti {
@@ -74,19 +84,19 @@ header {
 .rezerve {
   position: absolute;
   left: 22px;
-  top: 5px;
+  top: 0px;
 }
 
 .vietu {
   position: absolute;
   left: 22px;
-  top: 35px;
+  top: 30px;
 }
 
 .autorizejies {
   position: absolute;
   left: 5px;
-  top: 20px;
+  top: 10px;
 }
 
 .mission {
@@ -112,6 +122,17 @@ header {
   width: 617px;
   height: 298px;
   background-color: #D9D9D9;
+  border-radius: 30px;
+}
+
+.rectangle1 {
+  position: absolute;
+  left: 760px;
+  top: 465px;
+  width: 617px;
+  height: 830px;
+  background-color: #FEE1EE;
+  border-radius: 30px;
 }
 
 .thin-rectangle {
@@ -123,6 +144,15 @@ header {
   background-color: #CCCCCC;
 }
 
+.thin-rectangle1 {
+  position: absolute;
+  left: 404px;
+  top: 179px;
+  width: 600px;
+  height: 6px;
+  background-color: #CCCCCC;
+}
+
 .logo {
   position: absolute;
   left: 506px;
@@ -131,10 +161,71 @@ header {
   height: 230px;
 }
 
-.generated-icon {
+.logo1{
   position: absolute;
   left: 44px;
   top: 88px;
   width: 304px;
   height: 230px;
 }
+
+.ashe-text{
+  position: absolute;
+  left: 418px;
+  top: 485px;
+  width: 253px;
+  height: 233;
+  font-size: 20px; 
+  color: #000; 
+  font-family: 'Playfair Display', serif;
+}
+
+.ashe-title {
+  font-size: 25px;
+
+}
+
+.ashe-text1{
+  position: absolute;
+  left: 775px;
+  top: 485px;
+  width: 586px;
+  height: 648;
+  font-size: 20px; 
+  color: #000; 
+  font-family: 'Playfair Display', serif;
+}
+
+.suns{
+  position: absolute;
+  left: 96px;
+  top: 512px;
+  width: 308.76px;
+  height: 206px;
+  border-radius: 30px;
+}
+
+.image-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+  max-width: 600px;
+}
+
+.sun-image {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  border-radius: 8px;
+}
+
+.video-container {
+  margin-top: 40px; 
+}
+
+.main-content {
+  position: relative;
+  top: 240px;
+  left: 404px;
+}
+
